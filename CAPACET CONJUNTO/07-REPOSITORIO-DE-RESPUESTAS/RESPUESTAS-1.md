@@ -816,3 +816,167 @@ Respuesta correcta:
 **Prevenir, controlar y ordenar los flujos migratorios irregulares en las fronteras españolas**
 
 ---
+
+113. la inteligencia necesaria para el planeamiento militar y la provisión de indicios y alerta a nivel nacional y/o internacional. Se puede calificar como?
+
+Respuesta correcta:
+
+**inteligencia estratégica**
+
+---
+
+114. la inteligencia básica proporciona
+
+Respuesta correcta:
+
+**el contexto y el telón de fondo que sirve como base para el planeamiento**
+
+---
+
+115. durante el planeamiento de las operaciones ¿Quién es el responsable de definir prioridades de inteligencia?
+
+Respuesta correcta:
+
+**el jefe de la Unidad**
+
+---
+
+116. el principio de accesibilidad quiere decir:
+
+Respuesta correcta:
+
+**la Intel no tiene valor si no se difunde o no es accesible a aquellos que la necesitan**
+
+---
+
+117. Cual de las siguientes afirmaciones es verdadera:
+
+Respuesta correcta:
+
+**En operaciones de inteligencia llevadas a cabo por Unidades desplegadas en el exterior, prevalece la legislación NACIONAL sobre la internacional aunque esto suponga una merma en los criterios de empleo**
+
+---
+
+118. Las fuentes de información:
+
+Respuesta correcta:
+
+**Pueden ser controladas, incontroladas y causales**
+
+---
+
+119. La gestión de la información incluye:
+
+Respuesta correcta:
+
+**supervisión, administración, regulación y difusión puntual de la información**
+
+---
+
+120. El ciclo de inteligencia es:
+
+Respuesta correcta:
+
+**secuencia de actividades por las que se obtiene la información, se transforma en Inteligencia y se pone a disposición del usuario.**
+
+---
+
+121. Cuál de las siguientes respuestas es verdadera:
+
+Respuesta correcta:
+
+**En la fase de dirección se planea el esfuerzo de obtención según las necesidades de información del Mando**
+
+---
+
+122. Las amenazas para la seguridad incluyen otras:
+
+Respuesta correcta:
+
+**terrorismo, espionaje, sabotaje, subversión y crimen organizado**
+
+---
+
+123. El principio de la necesidad de saber o conocer se basa en que
+
+Respuesta correcta:
+
+**El acceso a la información será solo factible para el personal acreditado, que justifique la necesidad por los cometidos que desempeñe**
+
+---
+
+124. Cuales son las categorías en que se clasifican las medidas de seguridad de protección
+
+Respuesta correcta:
+
+**Seguridad de personal, seguridad 􀄰sica, de las operaciones y de la información**
+
+---
+
+125. Cual de las siguientes afirmaciones es falsa en relación a la seguridad de protección
+
+Respuesta correcta:
+
+**Sus medidas son efectivas por si solas pero en conjunto logran una reiteración de esfuerzos que aseguran la prevención de los riesgos y amenazas**
+
+---
+
+126. La contrainteligencia consiste en:
+
+Respuesta correcta:
+
+**(La contrainteligencia son aquellas) actividades relacionadas con la identificación y neutralización de la amenaza a la seguridad planteada por las organizaciones o servicios de inteligencia hostiles o por individuos relacionados con el espionaje, sabotaje, subversión o terrorismo.**
+
+---
+La gestión de la Información incluye:
+
+Respuesta correcta:
+
+**supervisión, administración, regulación y difusión puntual de la información.**
+
+---
+
+El ciclo de Inteligencia es:
+
+Respuesta correcta:
+
+**El ciclo de inteligencia es la secuencia de actividades por las que se obtiene información, se reúne, se
+convierte en inteligencia y se pone a disposición de los usuarios.**
+
+---
+
+7.- ¿Cuáles son los criterios que se tendrán presentes para el apoyo logístico conjunto?
+
+Respuesta correcta:
+
+**Capacidad de actuación, Simplicidad, flexibilidad, eficiencia y supervivencia**
+
+---
+
+15.- Los principios logísticos que deben de considerarse y aplicarse en las operaciones que desarrolla la OTAN son:
+
+Respuesta correcta:
+
+**Visibilidad, transparencia, Coordinación, cooperación y Autoridad**
+
+---
+
+19.- En la organización logística multinacional Apoyo de Contratación a Operaciones
+
+Respuesta correcta:
+
+**Los campos en los que es de aplicacion el apoyo de contratación van desde servicios de carácter técnico a
+apoyos logísticos.**
+
+---
+
+
+1.- Cual es el principio básico de la actuación de las fuerzas armadas?
+
+Respuesta correcta:
+
+**La acción conjunta**
+
+---
+
+

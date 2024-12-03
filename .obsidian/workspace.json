@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8370b3f2c8146af8",
+        "id": "a4bbd19b92ca7b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "0154691da95892c0",
+            "id": "ba7bb93d82351927",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " a)",
+                "query": "\"Durante el planeamiento de las Operaciones ¿Quiénes el responsable de definir la prioridades de inteligencia\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b121aae129a23ce",
@@ -158,11 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0154691da95892c0",
+  "active": "ba7bb93d82351927",
   "lastOpenFiles": [
     "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-3.md",
-    "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-1.md",
+    "CAPACET CONJUNTO/08-REPOSITORIO-DE-AFIRMACIONES/AFIRMACIONES-01.md",
+    "CAPACET CONJUNTO/08-REPOSITORIO-DE-AFIRMACIONES",
     "CAPACET CONJUNTO/07-REPOSITORIO-DE-RESPUESTAS/RESPUESTAS-1.md",
+    "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-1.md",
     "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-2.md",
     "CAPACET CONJUNTO/07-REPOSITORIO-DE-RESPUESTAS"
   ]
