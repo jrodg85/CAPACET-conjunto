@@ -1,4 +1,4 @@
-ORGANIZACIÓN
+## ORGANIZACIÓN
 
 1. El Ministro de Defensa es la autoridad que asiste al Presidente del Gobierno en la dirección estratégica de las operaciones militares.
 2. En la LO 5/2005 NO SE MENCIONA al DSN.
@@ -38,7 +38,7 @@ ORGANIZACIÓN
 36. La publicación de operaciones en el ámbito marítimo de 2022 es una guía para el empleo de la Fuerza Naval.
 37. Según la publicación de operaciones en el ámbito marítimo de la fuerza naval puede: proyectar fuerzas terrestres, contribuir a las operaciones aéreas y contribuir a las operaciones electromagnéticas conjuntas.
 
-ESTRAGEGIA
+## ESTRAGEGIA
 
 38. ¿Cómo se denomina a la estabilización posconflicto? Proceso a través del cual actores militares y no militares aplican instrumentos varios de poder nacional para abordar los factores del conflicto, fomentar la resiliencia de la nación anfitriona y crear las condiciones que permitan la seguridad y una paz sostenible.
 39. Los conflictos raciales no se contemplan como un desafío en la Estrategia de Seguridad Nacional de 2021. 
@@ -63,7 +63,7 @@ ESTRAGEGIA
 58. Según la DDN 2020, la OTAN es un vínculo fundamental para la colaboración en la defensa de los intereses de paz y seguridad compartidos a ambos lados del Atlántico.
 59. La disciplina de relaciones internacionales surge formalmente en el ámbito académico después de la Primera Guerra Mundial.
 
-OPERACIONES
+## OPERACIONES
 
 60. Operación principal: acción coordinada de fuerzas importantes en una fase de una campaña para alcanzar objetivos operacionales.
 61. Campaña: conjunto de operaciones militares planeadas y dirigidas a lograr uno o varios objetivos estratégicos militares en un espacio temporal y geográfico.
@@ -92,7 +92,7 @@ OPERACIONES
 84. Objetivos que son decisivos para lograr las condiciones de seguridad política, militar, económica o social que configuran la situación final deseada a alcanzar.
 85. Una función conjunta es una herramienta que permite al comandante operacional visualizar las actividades de la fuerza en una operación militar.
 
-LOGISTICA
+## LOGISTICA
 
 86. Concepto PULL: cuando hablamos del concepto basado en cubrir las necesidades logísticas de una unidad cuando se recibe su petición de apoyo para iniciar el proceso de suministro.
 87. Concepto PUSH: cuando hablamos del concepto basado en cubrir las necesidades logísticas sin mediar peticiones previas, es decir, no tener que esperar pacientemente a que llegue la petición de apoyo para iniciar el proceso de suministro.
@@ -107,7 +107,7 @@ LOGISTICA
 96. Las evacuaciones sanitarias, en función del área o situación operativa en que se produce y los medios que son empleados se clasifican en avanzada, táctica y estratégica.
 97. La 3ª línea se corresponde con la logística de nivel operacional.
 
-INTELIGENCIA
+## INTELIGENCIA
 
 98. El proceso JISR se articula en las fases: planeamiento de tareas, obtención, procesado, explotación y difusión.
 99. Finalidad del SIFAS: satisfacer de forma oportuna las necesidades e información e inteligencia militar de las autoridades militares.

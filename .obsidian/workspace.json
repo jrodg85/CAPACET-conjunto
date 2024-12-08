@@ -11,10 +11,14 @@
             "id": "ba7bb93d82351927",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CAPACET CONJUNTO/07-REPOSITORIO-DE-RESPUESTAS/RESPUESTAS-2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "RESPUESTAS-2"
             }
           }
         ]
@@ -161,10 +165,11 @@
   },
   "active": "ba7bb93d82351927",
   "lastOpenFiles": [
-    "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-3.md",
     "CAPACET CONJUNTO/08-REPOSITORIO-DE-AFIRMACIONES/AFIRMACIONES-01.md",
-    "CAPACET CONJUNTO/08-REPOSITORIO-DE-AFIRMACIONES",
     "CAPACET CONJUNTO/07-REPOSITORIO-DE-RESPUESTAS/RESPUESTAS-1.md",
+    "CAPACET CONJUNTO/07-REPOSITORIO-DE-RESPUESTAS/RESPUESTAS-2.md",
+    "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-3.md",
+    "CAPACET CONJUNTO/08-REPOSITORIO-DE-AFIRMACIONES",
     "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-1.md",
     "CAPACET CONJUNTO/06-REPOSITORIO-DE-PREGUNTAS/PREGUNTAS-2.md",
     "CAPACET CONJUNTO/07-REPOSITORIO-DE-RESPUESTAS"
